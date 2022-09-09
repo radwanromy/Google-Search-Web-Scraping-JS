@@ -57,8 +57,13 @@ async function scrape(url) {
         const countAllvideos = document.querySelectorAll('.uOId3b').length;
         const cites = document.querySelector(".yuRUbf cite").innerText;
         console.log("The number of results", countAll);
-        
+        const maininfo =[]
         const temp = [];
+        let item2 = {
+                 pageOneResultCount: countAll,
+                pageOneVideoResultCount: countAllvideos,
+        }
+        maininfo.push(item2);
         searchResults.forEach(searchItem => {
             let item = {
                 // pageOneResultCount: countAll,
@@ -69,13 +74,14 @@ async function scrape(url) {
                 Description:description,
 
             };
+           
 
             
            
             temp.push(item);
         });
-        
-        return temp;
+        maininfo.push(temp);
+        return maininfo;
     });
     require("fs").writeFile("Webpages.json", JSON.stringify(results), () => { });
 
