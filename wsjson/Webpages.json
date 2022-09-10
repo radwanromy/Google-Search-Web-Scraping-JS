@@ -1,74 +1,147 @@
 [
     {
-        "pageOneResultCount": 11,
-        "pageOneVideoResultCount": 4
+        "timeTakenInMs": 935,
+        "pageOneResultCount": 10,
+        "pageOneVideoResultCount": 0,
+        "Total_Facebook_links": 0,
+        "Total_Linkedin_links": 1,
+        "Total_Twitter_links": 0,
+        "Total_Instagram_links": 0,
+        "Total_Reddit_links": 0
     },
     [
         {
-            "Website": "https://elobyte.com",
-            "Title": "Elobyte",
-            "URL": "https://elobyte.com/",
-            "Description": "\nElobyte\nhttps://elobyte.com\nপৃষ্ঠাটি অনুবাদ করুন\nPowerful web-based online solutions that are capable of performing highly complex tasks that utilize cloud computing to meet organizational objectives."
+            "Title": "বাংলাদেশ (Bangladesh) জাতীয় তথ্য বাতায়ন | গণপ্রজাতন্ত্রী ...",
+            "URL": "http://www.bangladesh.gov.bd/"
         },
         {
-            "Website": "https://elobyte.com",
-            "Title": "ভিডিও",
-            "URL": "https://www.youtube.com/watch?v=TiDgP8sThKc",
-            "Description": "\nElobyte\nhttps://elobyte.com\nপৃষ্ঠাটি অনুবাদ করুন\nPowerful web-based online solutions that are capable of performing highly complex tasks that utilize cloud computing to meet organizational objectives."
+            "Title": "Bdjobs.com: Largest Job Site in Bangladesh, Search Jobs",
+            "URL": "https://www.bdjobs.com/"
         },
         {
-            "Website": "https://elobyte.com",
-            "Title": "Embedded Logic Operations (ELO) - LinkedIn",
-            "URL": "https://www.linkedin.com/company/elobyte",
-            "Description": "\nElobyte\nhttps://elobyte.com\nপৃষ্ঠাটি অনুবাদ করুন\nPowerful web-based online solutions that are capable of performing highly complex tasks that utilize cloud computing to meet organizational objectives."
+            "Title": "সেরা খবর",
+            "URL": "https://www.prothomalo.com/bangladesh/district/ogmjpdrc5f"
         },
         {
-            "Website": "https://elobyte.com",
-            "Title": "ELO - Facebook",
-            "URL": "https://www.facebook.com/elobyte",
-            "Description": "\nElobyte\nhttps://elobyte.com\nপৃষ্ঠাটি অনুবাদ করুন\nPowerful web-based online solutions that are capable of performing highly complex tasks that utilize cloud computing to meet organizational objectives."
+            "Title": "bdnews24.com",
+            "URL": "https://bangla.bdnews24.com/"
         },
         {
-            "Website": "https://elobyte.com",
-            "Title": "সংসদের লবিতে যে কোনো দুর্ঘটনা ঘটতে পারে: রাঙ্গা",
-            "URL": "https://banglanews24.com/politics/news/bd/908596.details",
-            "Description": "\nElobyte\nhttps://elobyte.com\nপৃষ্ঠাটি অনুবাদ করুন\nPowerful web-based online solutions that are capable of performing highly complex tasks that utilize cloud computing to meet organizational objectives."
+            "Title": "BD - LinkedIn",
+            "URL": "https://www.linkedin.com/company/bd1"
         },
         {
-            "Website": "https://elobyte.com",
-            "Title": "রাউটারঃ সেরা ওয়াইফাই রাউটারের দাম ও সেটাপ ২০২১| Daraz.com.bd",
-            "URL": "https://www.daraz.com.bd/bn-routers/",
-            "Description": "\nElobyte\nhttps://elobyte.com\nপৃষ্ঠাটি অনুবাদ করুন\nPowerful web-based online solutions that are capable of performing highly complex tasks that utilize cloud computing to meet organizational objectives."
+            "Title": "Finance Division, Ministry of Finance-Government of the ...",
+            "URL": "https://mof.gov.bd/"
         },
         {
-            "Website": "https://elobyte.com",
-            "Title": "পাউন্ডকে কেন 'এলবি' দিয়ে বোঝানো হয় জানেন?",
-            "URL": "https://www.anandabazar.com/lifestyle/know-why-lb-stands-for-pound-dgtl-1.762159",
-            "Description": "\nElobyte\nhttps://elobyte.com\nপৃষ্ঠাটি অনুবাদ করুন\nPowerful web-based online solutions that are capable of performing highly complex tasks that utilize cloud computing to meet organizational objectives."
+            "Title": "bd-এর ছবি",
+            "URL": "https://www.google.com/search?source=univ&tbm=isch&q=bd&fir=xN_Pdsfs84A-xM%252CZL6LPw6_D7bviM%252C_%253By-SjQbXaxOcYmM%252CaIjgZm0Zx7wjSM%252C_%253BkRJnPnPAo2onhM%252C6DeCIFg3Pd8O_M%252C_%253BawxREk9f_NqImM%252C6DeCIFg3Pd8O_M%252C_%253BR1sretQ4Y73apM%252C7f2Y3N7ZVKD-WM%252C_%253B6x6SsxQTGt52YM%252CfUdBZ_NH500pKM%252C_%253B_9pY6vtQssnvqM%252COy-2MQe5BOWPQM%252C_%253BncGBtvzxQlCj1M%252CN388qZxkNrGgAM%252C_%253BcHV4BFonCala_M%252CXcsGyLH2lIN_dM%252C_%253BHQxbKsTqG8SYCM%252CUdkJE1js95f2sM%252C_&usg=AI4_-kSEQTuME0QsztJtvekMx9DFgawUng&sa=X&ved=2ahUKEwj8quzO-4j6AhXyALcAHRP1CzoQjJkEegQIJBAC"
         },
         {
-            "Website": "https://elobyte.com",
-            "Title": "মন্দ আত্মা এবং তাদের দমন করার উপায় - Google বই ফলাফল",
-            "URL": "https://books.google.com.bd/books?id=0dFqDwAAQBAJ&pg=PT81&lpg=PT81&dq=Elobyte+BD&source=bl&ots=_h8O2aSydu&sig=ACfU3U0qc1Qx7rDfEZlBMyRFmi8AFzOmDQ&hl=bn&sa=X&ved=2ahUKEwiM_daXjYj6AhVscGwGHZlqDh0Q6AF6BAgxEAM",
-            "Description": "\nElobyte\nhttps://elobyte.com\nপৃষ্ঠাটি অনুবাদ করুন\nPowerful web-based online solutions that are capable of performing highly complex tasks that utilize cloud computing to meet organizational objectives."
+            "Title": "Dhaka Stock Exchange",
+            "URL": "https://www.dsebd.org/"
         },
         {
-            "Website": "https://elobyte.com",
-            "Title": "বিপ্রতীপ ও প্রতিদ্বন্দ্বী: Biproteep &amp; Protidwondee - Google বই ফলাফল",
-            "URL": "https://books.google.com.bd/books?id=wDfEDwAAQBAJ&pg=PT8&lpg=PT8&dq=Elobyte+BD&source=bl&ots=uU_aIlkiBW&sig=ACfU3U0J5cX2CtbyexaBa2psuOIYGzG1VA&hl=bn&sa=X&ved=2ahUKEwiM_daXjYj6AhVscGwGHZlqDh0Q6AF6BAgNEAM",
-            "Description": "\nElobyte\nhttps://elobyte.com\nপৃষ্ঠাটি অনুবাদ করুন\nPowerful web-based online solutions that are capable of performing highly complex tasks that utilize cloud computing to meet organizational objectives."
+            "Title": "বস্ত্র অধিদপ্তর-গণপ্রজাতন্ত্রী বাংলাদেশ সরকার",
+            "URL": "http://www.dot.gov.bd/"
         },
         {
-            "Website": "https://elobyte.com",
-            "Title": "আটচল্লিশ ঘন্টা - Boiraag Publication - Google বই ফলাফল",
-            "URL": "https://books.google.com.bd/books?id=_3dtEAAAQBAJ&pg=PT187&lpg=PT187&dq=Elobyte+BD&source=bl&ots=DVa0XBQOj5&sig=ACfU3U1wRanPpKSuO8oQhQrWrpNg8NfvKQ&hl=bn&sa=X&ved=2ahUKEwiM_daXjYj6AhVscGwGHZlqDh0Q6AF6BAgOEAM",
-            "Description": "\nElobyte\nhttps://elobyte.com\nপৃষ্ঠাটি অনুবাদ করুন\nPowerful web-based online solutions that are capable of performing highly complex tasks that utilize cloud computing to meet organizational objectives."
+            "Title": "Google",
+            "URL": "https://www.google.com.bd/"
         },
-        {
-            "Website": "https://elobyte.com",
-            "Title": "<span class=\"q8U8x\">সংশ্লিষ্ট সার্চ</span>",
-            "URL": "https://www.google.com/search?q=%E0%A6%B0%E0%A6%BE%E0%A6%89%E0%A6%9F%E0%A6%BE%E0%A6%B0+%E0%A6%8F%E0%A6%B0+%E0%A6%A6%E0%A6%BE%E0%A6%AE&sa=X&ved=2ahUKEwiM_daXjYj6AhVscGwGHZlqDh0Q1QJ6BAgiEAE",
-            "Description": "\nElobyte\nhttps://elobyte.com\nপৃষ্ঠাটি অনুবাদ করুন\nPowerful web-based online solutions that are capable of performing highly complex tasks that utilize cloud computing to meet organizational objectives."
-        }
+        [
+            {
+                "site": [
+                    "http://www.bangladesh.gov.bd"
+                ]
+            },
+            {
+                "site": [
+                    "https://www.bdjobs.com"
+                ]
+            },
+            {
+                "site": [
+                    "https://bangla.bdnews24.com"
+                ]
+            },
+            {
+                "site": [
+                    "https://www.linkedin.com"
+                ]
+            },
+            {
+                "site": [
+                    "https://mof.gov.bd"
+                ]
+            },
+            {
+                "site": [
+                    "https://www.dsebd.org"
+                ]
+            },
+            {
+                "site": [
+                    "http://www.dot.gov.bd"
+                ]
+            },
+            {
+                "site": [
+                    "https://www.google.com.bd"
+                ]
+            },
+            [
+                {
+                    "Website_Title": "বাংলাদেশ (Bangladesh) জাতীয় তথ্য বাতায়ন | গণপ্রজাতন্ত্রী ...",
+                    "Website_URL": "http://www.bangladesh.gov.bd/"
+                },
+                {
+                    "Website_Title": "Bdjobs.com: Largest Job Site in Bangladesh, Search Jobs",
+                    "Website_URL": "https://www.bdjobs.com/"
+                },
+                {
+                    "Website_Title": "bdnews24.com",
+                    "Website_URL": "https://bangla.bdnews24.com/"
+                },
+                {
+                    "Website_Title": "Finance Division, Ministry of Finance-Government of the ...",
+                    "Website_URL": "https://mof.gov.bd/"
+                },
+                {
+                    "Website_Title": "Dhaka Stock Exchange",
+                    "Website_URL": "https://www.dsebd.org/"
+                },
+                {
+                    "Website_Title": "বস্ত্র অধিদপ্তর-গণপ্রজাতন্ত্রী বাংলাদেশ সরকার",
+                    "Website_URL": "http://www.dot.gov.bd/"
+                },
+                {
+                    "Website_Title": "Google",
+                    "Website_URL": "https://www.google.com.bd/"
+                }
+            ],
+            [
+                {
+                    "Social_Title": "BD - LinkedIn",
+                    "Social_URL": "https://www.linkedin.com/company/bd1"
+                }
+            ],
+            [],
+            [
+                {
+                    "media_Title": "উইকিপিডিয়া",
+                    "media_URL": "https://bn.wikipedia.org/wiki/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6"
+                },
+                {
+                    "media_Title": "আকর্ষণীয় জায়গা",
+                    "media_URL": "https://www.google.com/search?q=%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6+%E0%A6%86%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%B7%E0%A6%A3%E0%A7%80%E0%A6%AF%E0%A6%BC+%E0%A6%9C%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A6%97%E0%A6%BE&stick=H4sIAAAAAAAAAONgFuLQz9U3MDQzSlKCs7QUspOt9HPykxNLMvPz9JPzS_NKiiqtEktKihKTQULFi1jdHyxb82DZvgfLmh4s2wRmLHuwvP3Bsm0KD5a1PVg29cGyDQ-W9z5Ytv3BssUPljc8WLb-wbI9QLk5YLUgzoNl04HsHayMAGWxftqFAAAA&sa=X&ved=2ahUKEwj8quzO-4j6AhXyALcAHRP1CzoQMSgAegQINBAB"
+                },
+                {
+                    "media_Title": "এছাড়াও লোকজন এটিরও সার্চ করেন",
+                    "media_URL": "https://www.google.com/search?q=%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6&stick=H4sIAAAAAAAAAONgFuLQz9U3MDQzSlKCs7QEgzNTUssTK4v9UitKgktSC4oXsUo8WLbmwbJ9D5Y1PVi2CcxY9mB5-4Nl23awMgIAYcOWi0cAAAA&sa=X&ved=2ahUKEwj8quzO-4j6AhXyALcAHRP1CzoQMSgAegQINRAB"
+                }
+            ]
+        ]
     ]
 ]
