@@ -1,147 +1,177 @@
 [
     {
-        "timeTakenInMs": 935,
-        "pageOneResultCount": 10,
+        "timeTakenInMs": 1271,
+        "pageOneResultCount": 9,
         "pageOneVideoResultCount": 0,
-        "Total_Facebook_links": 0,
-        "Total_Linkedin_links": 1,
+        "Total_Facebook_links": 1,
+        "Total_Linkedin_links": 2,
         "Total_Twitter_links": 0,
-        "Total_Instagram_links": 0,
+        "Total_Instagram_links": 1,
         "Total_Reddit_links": 0
     },
     [
         {
-            "Title": "বাংলাদেশ (Bangladesh) জাতীয় তথ্য বাতায়ন | গণপ্রজাতন্ত্রী ...",
-            "URL": "http://www.bangladesh.gov.bd/"
+            "site": [
+                "https://bd.linkedin.com"
+            ]
         },
         {
-            "Title": "Bdjobs.com: Largest Job Site in Bangladesh, Search Jobs",
-            "URL": "https://www.bdjobs.com/"
+            "site": [
+                "https://bd.linkedin.com"
+            ]
         },
         {
-            "Title": "সেরা খবর",
-            "URL": "https://www.prothomalo.com/bangladesh/district/ogmjpdrc5f"
+            "site": [
+                "https://parkview.com.bd"
+            ]
         },
         {
-            "Title": "bdnews24.com",
-            "URL": "https://bangla.bdnews24.com/"
+            "site": [
+                "https://www.e-healthbd.com"
+            ]
         },
         {
-            "Title": "BD - LinkedIn",
-            "URL": "https://www.linkedin.com/company/bd1"
+            "site": [
+                "https://www.instagram.com"
+            ]
         },
         {
-            "Title": "Finance Division, Ministry of Finance-Government of the ...",
-            "URL": "https://mof.gov.bd/"
+            "site": [
+                "https://m.facebook.com"
+            ]
         },
         {
-            "Title": "bd-এর ছবি",
-            "URL": "https://www.google.com/search?source=univ&tbm=isch&q=bd&fir=xN_Pdsfs84A-xM%252CZL6LPw6_D7bviM%252C_%253By-SjQbXaxOcYmM%252CaIjgZm0Zx7wjSM%252C_%253BkRJnPnPAo2onhM%252C6DeCIFg3Pd8O_M%252C_%253BawxREk9f_NqImM%252C6DeCIFg3Pd8O_M%252C_%253BR1sretQ4Y73apM%252C7f2Y3N7ZVKD-WM%252C_%253B6x6SsxQTGt52YM%252CfUdBZ_NH500pKM%252C_%253B_9pY6vtQssnvqM%252COy-2MQe5BOWPQM%252C_%253BncGBtvzxQlCj1M%252CN388qZxkNrGgAM%252C_%253BcHV4BFonCala_M%252CXcsGyLH2lIN_dM%252C_%253BHQxbKsTqG8SYCM%252CUdkJE1js95f2sM%252C_&usg=AI4_-kSEQTuME0QsztJtvekMx9DFgawUng&sa=X&ved=2ahUKEwj8quzO-4j6AhXyALcAHRP1CzoQjJkEegQIJBAC"
+            "site": [
+                "https://bestdoctorinfo.com"
+            ]
         },
         {
-            "Title": "Dhaka Stock Exchange",
-            "URL": "https://www.dsebd.org/"
+            "site": [
+                "https://www.researchgate.net"
+            ]
         },
         {
-            "Title": "বস্ত্র অধিদপ্তর-গণপ্রজাতন্ত্রী বাংলাদেশ সরকার",
-            "URL": "http://www.dot.gov.bd/"
+            "site": [
+                "https://scholar.google.com"
+            ]
         },
-        {
-            "Title": "Google",
-            "URL": "https://www.google.com.bd/"
-        },
+        "Grouped of All Category",
+        "Website Category",
         [
             {
-                "site": [
-                    "http://www.bangladesh.gov.bd"
-                ]
+                "Website_Title": "A. S. M. Radwan - Software Engineer &amp; Japanese Language ...",
+                "Website_URL": "https://bd.linkedin.com/in/a-s-m-radwan-316597155"
             },
             {
-                "site": [
-                    "https://www.bdjobs.com"
-                ]
+                "Website_Title": "A S M Redwan Haider - Co-Owner - Qatn - LinkedIn",
+                "Website_URL": "https://bd.linkedin.com/in/a-s-m-redwan-haider"
             },
             {
-                "site": [
-                    "https://bangla.bdnews24.com"
-                ]
+                "Website_Title": "Dr. ASM Redwan - Parkview Hospital Limited",
+                "Website_URL": "https://parkview.com.bd/profile/dr-asm-redwan/"
             },
             {
-                "site": [
-                    "https://www.linkedin.com"
-                ]
+                "Website_Title": "Dr ASM Redwan | Health BD",
+                "Website_URL": "https://www.e-healthbd.com/doctors/person/318"
             },
             {
-                "site": [
-                    "https://mof.gov.bd"
-                ]
+                "Website_Title": "Asm Radwan | Facebook",
+                "Website_URL": "https://m.facebook.com/asm.radwan.98"
             },
             {
-                "site": [
-                    "https://www.dsebd.org"
-                ]
+                "Website_Title": "Dr. ASM Redwan - BEST DOCTOR INFO.",
+                "Website_URL": "https://bestdoctorinfo.com/dr-asm-redwan/"
             },
             {
-                "site": [
-                    "http://www.dot.gov.bd"
-                ]
+                "Website_Title": "ASM Radwan American International University-Bangladesh ...",
+                "Website_URL": "https://www.researchgate.net/profile/A_S_M_Radwan"
             },
             {
-                "site": [
-                    "https://www.google.com.bd"
-                ]
+                "Website_Title": "‪A S M Redwan Haider‬ - ‪Google Scholar‬",
+                "Website_URL": "https://scholar.google.com/citations?user=GjfWNp0AAAAJ&hl=en"
+            }
+        ],
+        "Social Category",
+        [
+            {
+                "Social_Title": "A. S. M. Radwan - Software Engineer &amp; Japanese Language ...",
+                "Social_URL": "https://bd.linkedin.com/in/a-s-m-radwan-316597155"
             },
-            [
-                {
-                    "Website_Title": "বাংলাদেশ (Bangladesh) জাতীয় তথ্য বাতায়ন | গণপ্রজাতন্ত্রী ...",
-                    "Website_URL": "http://www.bangladesh.gov.bd/"
-                },
-                {
-                    "Website_Title": "Bdjobs.com: Largest Job Site in Bangladesh, Search Jobs",
-                    "Website_URL": "https://www.bdjobs.com/"
-                },
-                {
-                    "Website_Title": "bdnews24.com",
-                    "Website_URL": "https://bangla.bdnews24.com/"
-                },
-                {
-                    "Website_Title": "Finance Division, Ministry of Finance-Government of the ...",
-                    "Website_URL": "https://mof.gov.bd/"
-                },
-                {
-                    "Website_Title": "Dhaka Stock Exchange",
-                    "Website_URL": "https://www.dsebd.org/"
-                },
-                {
-                    "Website_Title": "বস্ত্র অধিদপ্তর-গণপ্রজাতন্ত্রী বাংলাদেশ সরকার",
-                    "Website_URL": "http://www.dot.gov.bd/"
-                },
-                {
-                    "Website_Title": "Google",
-                    "Website_URL": "https://www.google.com.bd/"
-                }
-            ],
-            [
-                {
-                    "Social_Title": "BD - LinkedIn",
-                    "Social_URL": "https://www.linkedin.com/company/bd1"
-                }
-            ],
-            [],
-            [
-                {
-                    "media_Title": "উইকিপিডিয়া",
-                    "media_URL": "https://bn.wikipedia.org/wiki/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6"
-                },
-                {
-                    "media_Title": "আকর্ষণীয় জায়গা",
-                    "media_URL": "https://www.google.com/search?q=%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6+%E0%A6%86%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%B7%E0%A6%A3%E0%A7%80%E0%A6%AF%E0%A6%BC+%E0%A6%9C%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A6%97%E0%A6%BE&stick=H4sIAAAAAAAAAONgFuLQz9U3MDQzSlKCs7QUspOt9HPykxNLMvPz9JPzS_NKiiqtEktKihKTQULFi1jdHyxb82DZvgfLmh4s2wRmLHuwvP3Bsm0KD5a1PVg29cGyDQ-W9z5Ytv3BssUPljc8WLb-wbI9QLk5YLUgzoNl04HsHayMAGWxftqFAAAA&sa=X&ved=2ahUKEwj8quzO-4j6AhXyALcAHRP1CzoQMSgAegQINBAB"
-                },
-                {
-                    "media_Title": "এছাড়াও লোকজন এটিরও সার্চ করেন",
-                    "media_URL": "https://www.google.com/search?q=%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6&stick=H4sIAAAAAAAAAONgFuLQz9U3MDQzSlKCs7QEgzNTUssTK4v9UitKgktSC4oXsUo8WLbmwbJ9D5Y1PVi2CcxY9mB5-4Nl23awMgIAYcOWi0cAAAA&sa=X&ved=2ahUKEwj8quzO-4j6AhXyALcAHRP1CzoQMSgAegQINRAB"
-                }
-            ]
+            {
+                "Social_Title": "A S M Redwan Haider - Co-Owner - Qatn - LinkedIn",
+                "Social_URL": "https://bd.linkedin.com/in/a-s-m-redwan-haider"
+            },
+            {
+                "Social_Title": "asm.radwan - Instagram",
+                "Social_URL": "https://www.instagram.com/asm.radwan/"
+            },
+            {
+                "Social_Title": "Asm Radwan | Facebook",
+                "Social_URL": "https://m.facebook.com/asm.radwan.98"
+            }
+        ],
+        "Video Category",
+        [],
+        "Media Category",
+        [
+            {
+                "media_Title": "ঠিকানা",
+                "media_URL": "https://www.google.com/search?q=%E0%A6%86%E0%A6%9C%E0%A6%AE+%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A1%E0%A6%93%E0%A7%9F%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B0+%E0%A6%8F%E0%A6%A8%E0%A7%8D%E0%A6%A1+%E0%A6%87%E0%A6%B2%E0%A7%87%E0%A6%95%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%95+%E0%A6%88%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%B0%E0%A6%A6%E0%A7%80+%E0%A6%89%E0%A6%AA%E0%A6%9C%E0%A7%87%E0%A6%B2%E0%A6%BE+%E0%A6%A0%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%A8%E0%A6%BE&ludocid=4973155502953138293&sa=X&ved=2ahUKEwjAoZ7owIv6AhW3gtgFHQbSB9sQ6BN6BAgxEAI"
+            },
+            {
+                "media_Title": "এডিট করার প্রস্তাব দিন",
+                "media_URL": "https://www.google.com/search?q=A+S+M+radwan&source=hp&ei=5y4dY5SQJ6Cc3LUPkZeHmAE&iflsig=AJiK0e8AAAAAYx089_Ydq0cu7VLwtQDMyn87Zj3ExyPW&ved=0ahUKEwjUn9jnwIv6AhUgDrcAHZHLARMQ4dUDCAc&uact=5&oq=A+S+M+radwan&gs_lcp=Cgdnd3Mtd2l6EANQAFhVYFxoAHAAeACAAQCIAQCSAQCYAQCgAQE&sclient=gws-wiz#"
+            },
+            {
+                "media_Title": "একটি প্রশ্ন জিজ্ঞাসা করুন",
+                "media_URL": "https://www.google.com/search?q=A+S+M+radwan&source=hp&ei=5y4dY5SQJ6Cc3LUPkZeHmAE&iflsig=AJiK0e8AAAAAYx089_Ydq0cu7VLwtQDMyn87Zj3ExyPW&ved=0ahUKEwjUn9jnwIv6AhUgDrcAHZHLARMQ4dUDCAc&uact=5&oq=A+S+M+radwan&gs_lcp=Cgdnd3Mtd2l6EANQAFhVYFxoAHAAeACAAQCIAQCSAQCYAQCgAQE&sclient=gws-wiz#"
+            },
+            {
+                "media_Title": "Google নীতি",
+                "media_URL": "https://support.google.com/contributionpolicy/answer/7400114?ref_topic=7422769"
+            },
+            {
+                "media_Title": "লোকেরা এটাও সার্চ করেছে",
+                "media_URL": "https://www.google.com/search?tbm=lcl&q=%E0%A6%86%E0%A6%9C%E0%A6%AE+%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A1%E0%A6%93%E0%A7%9F%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B0+%E0%A6%8F%E0%A6%A8%E0%A7%8D%E0%A6%A1+%E0%A6%87%E0%A6%B2%E0%A7%87%E0%A6%95%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%95&rflfq=1&num=20&stick=H4sIAAAAAAAAAE1PK04EURDMCgiaQY3aI_T_o7gEZ2IFIQiCAZLNIt6gYIMCA1d5mlPQM2MwL13V1VX1zk7HwRTCFThVQNXJTMYLlGSJNGWDMI4Ux3GQRGOk9CSJ4jCtSFbCVI9QYXdG0bo3MYAQdGAHTFLm8dwNRLlykMoivM4rqcKBlJLcKmpOrlIAHkKhocpJGWgzKS6eAZEMXi08xkEJjJ28AhyZQFLHgYWx6jEpajUwjPlPDFUx08y1dpzJftxsfjeXvX306aa3hz7tejv29r3t7a63fU293Rf4XKZjn257e9zOyhmU-Knel5Or3q57e-7trXZf_7SHOu_TfpnfV361fl3XBXZL-m7xXIVV4KfgH_gsHOmdAQAA&sa=X&ved=2ahUKEwjAoZ7owIv6AhW3gtgFHQbSB9sQ6nUoAHoECDYQAQ"
+            }
         ]
+    ],
+    [
+        {
+            "Title": "A. S. M. Radwan - Software Engineer &amp; Japanese Language ...",
+            "URL": "https://bd.linkedin.com/in/a-s-m-radwan-316597155"
+        },
+        {
+            "Title": "Dr. ASM Redwan - Parkview Hospital Limited",
+            "URL": "https://parkview.com.bd/profile/dr-asm-redwan/"
+        },
+        {
+            "Title": "Dr ASM Redwan | Health BD",
+            "URL": "https://www.e-healthbd.com/doctors/person/318"
+        },
+        {
+            "Title": "asm.radwan - Instagram",
+            "URL": "https://www.instagram.com/asm.radwan/"
+        },
+        {
+            "Title": "Asm Radwan | Facebook",
+            "URL": "https://m.facebook.com/asm.radwan.98"
+        },
+        {
+            "Title": "A S M radwan-এর ছবি",
+            "URL": "https://www.google.com/search?source=univ&tbm=isch&q=A+S+M+radwan&fir=E4VNyRmbz0aJkM%252Cbr3R_71_S9VI6M%252C_%253Bxya8f31cV6hQrM%252CpCk_m9mdsBzzMM%252C_%253BqxAUdFGIG5_0cM%252CpCk_m9mdsBzzMM%252C_%253BI-dGFkqRKlcENM%252CpCk_m9mdsBzzMM%252C_%253BRPALzy8SwoGjrM%252COE0L51RscD4W-M%252C_%253B9ZmYEVMfEPQvYM%252CYc5O4Ko1XTTZLM%252C_%253B3ccUnRetTM6TOM%252CkGw8ChrfeGfP3M%252C_%253B6o6LAYqSBIrulM%252CriyH7SU9jR6A4M%252C_%253BFMvo-Hg9MFS1WM%252CHyXggjgX008V_M%252C_%253B6s3sp__Zcb-JDM%252C3fdnVDfg44lvyM%252C_&usg=AI4_-kQb-N7v4IpDfRHOvVOrUuIwAQFe3A&sa=X&ved=2ahUKEwjAoZ7owIv6AhW3gtgFHQbSB9sQjJkEegQIIBAC"
+        },
+        {
+            "Title": "Dr. ASM Redwan - BEST DOCTOR INFO.",
+            "URL": "https://bestdoctorinfo.com/dr-asm-redwan/"
+        },
+        {
+            "Title": "ASM Radwan American International University-Bangladesh ...",
+            "URL": "https://www.researchgate.net/profile/A_S_M_Radwan"
+        },
+        {
+            "Title": "‪A S M Redwan Haider‬ - ‪Google Scholar‬",
+            "URL": "https://scholar.google.com/citations?user=GjfWNp0AAAAJ&hl=en"
+        }
     ]
 ]
