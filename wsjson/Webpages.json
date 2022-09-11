@@ -1,177 +1,155 @@
 [
     {
-        "timeTakenInMs": 1271,
-        "pageOneResultCount": 9,
+        "timeTakenInMs": 609,
+        "pageOneResultCount": 8,
         "pageOneVideoResultCount": 0,
         "Total_Facebook_links": 1,
-        "Total_Linkedin_links": 2,
+        "Total_Linkedin_links": 1,
         "Total_Twitter_links": 0,
-        "Total_Instagram_links": 1,
+        "Total_Instagram_links": 2,
         "Total_Reddit_links": 0
     },
+    "Grouped of All Category",
+    "Website Category",
     [
         {
-            "site": [
-                "https://bd.linkedin.com"
-            ]
+            "Website_Title": "radwan romy - Bangladesh | Professional Profile - LinkedIn",
+            "Website_URL": "https://bd.linkedin.com/in/radwan-romy-a470b75a"
         },
+        {
+            "Website_Title": "A . S . M . RADWAN (エー エス エム レードワン) radwanromy",
+            "Website_URL": "https://github.com/radwanromy"
+        },
+        {
+            "Website_Title": "Radwan Romy - YouTube",
+            "Website_URL": "https://www.youtube.com/channel/UColDIGGLc7v6E4tZqDEzdXQ"
+        },
+        {
+            "Website_Title": "Romy   এর জনপ্রিয় ভিডিও আবিষ্কার করুন - TikTok",
+            "Website_URL": "https://www.tiktok.com/discover/Romy%F0%9F%92%9C?lang=bn-IN"
+        },
+        {
+            "Website_Title": "natan Romy এর জনপ্রিয় ভিডিও আবিষ্কার করুন | TikTok",
+            "Website_URL": "https://www.tiktok.com/discover/natan-Romy?lang=bn-IN"
+        },
+        {
+            "Website_Title": "রাধা রাণী রায় - সৈয়দপুর ইউনিয়ন",
+            "Website_URL": "http://saidpurup.thakurgaon.gov.bd/site/staff_list/2ca213c3-18fd-11e7-9461-286ed488c766/%E0%A6%B0%E0%A6%BE%E0%A6%A7%E0%A6%BE%20%E0%A6%B0%E0%A6%BE%E0%A6%A3%E0%A7%80%20%E0%A6%B0%E0%A6%BE%E0%A7%9F"
+        }
+    ],
+    "Social Category",
+    [
+        {
+            "Social_Title": "radwan romy - Bangladesh | Professional Profile - LinkedIn",
+            "Social_URL": "https://bd.linkedin.com/in/radwan-romy-a470b75a"
+        },
+        {
+            "Social_Title": "Radwan Romy - Facebook",
+            "Social_URL": "https://www.facebook.com/radwan.romy.100"
+        },
+        {
+            "Social_Title": "Romy Al-Azhar (@r3438) • Instagram ছবি ও ভিডিও",
+            "Social_URL": "https://www.instagram.com/r3438/?hl=bn"
+        },
+        {
+            "Social_Title": "Romy Bocanegra (@romybmb) • Instagram ছবি ও ভিডিও",
+            "Social_URL": "https://www.instagram.com/romybmb/?hl=bn"
+        }
+    ],
+    "Video Category",
+    [],
+    "Media Category",
+    [],
+    "All Website Main Domains",
+    "All Site Results",
+    [
+        {
+            "Title": "radwan romy - Bangladesh | Professional Profile - LinkedIn",
+            "URL": "https://bd.linkedin.com/in/radwan-romy-a470b75a"
+        },
+        {
+            "Title": "Radwan Romy - Facebook",
+            "URL": "https://www.facebook.com/radwan.romy.100"
+        },
+        {
+            "Title": "A . S . M . RADWAN (エー エス エム レードワン) radwanromy",
+            "URL": "https://github.com/radwanromy"
+        },
+        {
+            "Title": "Radwan Romy - YouTube",
+            "URL": "https://www.youtube.com/channel/UColDIGGLc7v6E4tZqDEzdXQ"
+        },
+        {
+            "Title": "Romy Al-Azhar (@r3438) • Instagram ছবি ও ভিডিও",
+            "URL": "https://www.instagram.com/r3438/?hl=bn"
+        },
+        {
+            "Title": "Radwan Romy-এর ছবি",
+            "URL": "https://www.google.com/search?source=univ&tbm=isch&q=Radwan+Romy&fir=R7y6g_c0Y8RozM%252CLgaRh_cr6CqhgM%252C_%253B7TKB3OYd8Wh6mM%252CLgaRh_cr6CqhgM%252C_%253BwNbhm7gWRwnfUM%252CLgaRh_cr6CqhgM%252C_%253BRtZP7UxNqbPtxM%252CS84xnPN6x8ZP7M%252C_%253BaHIS6ISra-mU2M%252CLgaRh_cr6CqhgM%252C_%253BbsGdoBQYegecfM%252CLgaRh_cr6CqhgM%252C_%253B_0GvqBsnJE5ugM%252C6ywYS1L4tlYWyM%252C_%253BnBE46i7cN928-M%252CLgaRh_cr6CqhgM%252C_%253BaF3OlpkJ-SLH4M%252CLgaRh_cr6CqhgM%252C_%253Bpz9hwYjaVBQbMM%252CiDDf3uJemUwt_M%252C_&usg=AI4_-kTxZIWbO3msmIFOTENTuonMS082cg&sa=X&ved=2ahUKEwi0wK-a3Yv6AhUTXnwKHbDnAgIQjJkEegQIEhAC"
+        },
+        {
+            "Title": "Romy   এর জনপ্রিয় ভিডিও আবিষ্কার করুন - TikTok",
+            "URL": "https://www.tiktok.com/discover/Romy%F0%9F%92%9C?lang=bn-IN"
+        },
+        {
+            "Title": "রাধা রাণী রায় - সৈয়দপুর ইউনিয়ন",
+            "URL": "http://saidpurup.thakurgaon.gov.bd/site/staff_list/2ca213c3-18fd-11e7-9461-286ed488c766/%E0%A6%B0%E0%A6%BE%E0%A6%A7%E0%A6%BE%20%E0%A6%B0%E0%A6%BE%E0%A6%A3%E0%A7%80%20%E0%A6%B0%E0%A6%BE%E0%A7%9F"
+        }
+    ],
+    [
+        "Search Result Sites Main Domain: ",
         {
             "site": [
                 "https://bd.linkedin.com"
             ]
         },
+        "Search Result Sites Main Domain: ",
         {
             "site": [
-                "https://parkview.com.bd"
+                "https://www.facebook.com"
             ]
         },
+        "Search Result Sites Main Domain: ",
         {
             "site": [
-                "https://www.e-healthbd.com"
+                "https://github.com"
             ]
         },
+        "Search Result Sites Main Domain: ",
+        {
+            "site": [
+                "https://www.youtube.com"
+            ]
+        },
+        "Search Result Sites Main Domain: ",
         {
             "site": [
                 "https://www.instagram.com"
             ]
         },
+        "Search Result Sites Main Domain: ",
         {
             "site": [
-                "https://m.facebook.com"
+                "https://www.instagram.com"
             ]
         },
+        "Search Result Sites Main Domain: ",
         {
             "site": [
-                "https://bestdoctorinfo.com"
+                "https://www.tiktok.com"
             ]
         },
+        "Search Result Sites Main Domain: ",
         {
             "site": [
-                "https://www.researchgate.net"
+                "https://www.tiktok.com"
             ]
         },
+        "Search Result Sites Main Domain: ",
         {
             "site": [
-                "https://scholar.google.com"
+                "http://saidpurup.thakurgaon.gov.bd"
             ]
-        },
-        "Grouped of All Category",
-        "Website Category",
-        [
-            {
-                "Website_Title": "A. S. M. Radwan - Software Engineer &amp; Japanese Language ...",
-                "Website_URL": "https://bd.linkedin.com/in/a-s-m-radwan-316597155"
-            },
-            {
-                "Website_Title": "A S M Redwan Haider - Co-Owner - Qatn - LinkedIn",
-                "Website_URL": "https://bd.linkedin.com/in/a-s-m-redwan-haider"
-            },
-            {
-                "Website_Title": "Dr. ASM Redwan - Parkview Hospital Limited",
-                "Website_URL": "https://parkview.com.bd/profile/dr-asm-redwan/"
-            },
-            {
-                "Website_Title": "Dr ASM Redwan | Health BD",
-                "Website_URL": "https://www.e-healthbd.com/doctors/person/318"
-            },
-            {
-                "Website_Title": "Asm Radwan | Facebook",
-                "Website_URL": "https://m.facebook.com/asm.radwan.98"
-            },
-            {
-                "Website_Title": "Dr. ASM Redwan - BEST DOCTOR INFO.",
-                "Website_URL": "https://bestdoctorinfo.com/dr-asm-redwan/"
-            },
-            {
-                "Website_Title": "ASM Radwan American International University-Bangladesh ...",
-                "Website_URL": "https://www.researchgate.net/profile/A_S_M_Radwan"
-            },
-            {
-                "Website_Title": "‪A S M Redwan Haider‬ - ‪Google Scholar‬",
-                "Website_URL": "https://scholar.google.com/citations?user=GjfWNp0AAAAJ&hl=en"
-            }
-        ],
-        "Social Category",
-        [
-            {
-                "Social_Title": "A. S. M. Radwan - Software Engineer &amp; Japanese Language ...",
-                "Social_URL": "https://bd.linkedin.com/in/a-s-m-radwan-316597155"
-            },
-            {
-                "Social_Title": "A S M Redwan Haider - Co-Owner - Qatn - LinkedIn",
-                "Social_URL": "https://bd.linkedin.com/in/a-s-m-redwan-haider"
-            },
-            {
-                "Social_Title": "asm.radwan - Instagram",
-                "Social_URL": "https://www.instagram.com/asm.radwan/"
-            },
-            {
-                "Social_Title": "Asm Radwan | Facebook",
-                "Social_URL": "https://m.facebook.com/asm.radwan.98"
-            }
-        ],
-        "Video Category",
-        [],
-        "Media Category",
-        [
-            {
-                "media_Title": "ঠিকানা",
-                "media_URL": "https://www.google.com/search?q=%E0%A6%86%E0%A6%9C%E0%A6%AE+%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A1%E0%A6%93%E0%A7%9F%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B0+%E0%A6%8F%E0%A6%A8%E0%A7%8D%E0%A6%A1+%E0%A6%87%E0%A6%B2%E0%A7%87%E0%A6%95%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%95+%E0%A6%88%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%B0%E0%A6%A6%E0%A7%80+%E0%A6%89%E0%A6%AA%E0%A6%9C%E0%A7%87%E0%A6%B2%E0%A6%BE+%E0%A6%A0%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%A8%E0%A6%BE&ludocid=4973155502953138293&sa=X&ved=2ahUKEwjAoZ7owIv6AhW3gtgFHQbSB9sQ6BN6BAgxEAI"
-            },
-            {
-                "media_Title": "এডিট করার প্রস্তাব দিন",
-                "media_URL": "https://www.google.com/search?q=A+S+M+radwan&source=hp&ei=5y4dY5SQJ6Cc3LUPkZeHmAE&iflsig=AJiK0e8AAAAAYx089_Ydq0cu7VLwtQDMyn87Zj3ExyPW&ved=0ahUKEwjUn9jnwIv6AhUgDrcAHZHLARMQ4dUDCAc&uact=5&oq=A+S+M+radwan&gs_lcp=Cgdnd3Mtd2l6EANQAFhVYFxoAHAAeACAAQCIAQCSAQCYAQCgAQE&sclient=gws-wiz#"
-            },
-            {
-                "media_Title": "একটি প্রশ্ন জিজ্ঞাসা করুন",
-                "media_URL": "https://www.google.com/search?q=A+S+M+radwan&source=hp&ei=5y4dY5SQJ6Cc3LUPkZeHmAE&iflsig=AJiK0e8AAAAAYx089_Ydq0cu7VLwtQDMyn87Zj3ExyPW&ved=0ahUKEwjUn9jnwIv6AhUgDrcAHZHLARMQ4dUDCAc&uact=5&oq=A+S+M+radwan&gs_lcp=Cgdnd3Mtd2l6EANQAFhVYFxoAHAAeACAAQCIAQCSAQCYAQCgAQE&sclient=gws-wiz#"
-            },
-            {
-                "media_Title": "Google নীতি",
-                "media_URL": "https://support.google.com/contributionpolicy/answer/7400114?ref_topic=7422769"
-            },
-            {
-                "media_Title": "লোকেরা এটাও সার্চ করেছে",
-                "media_URL": "https://www.google.com/search?tbm=lcl&q=%E0%A6%86%E0%A6%9C%E0%A6%AE+%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A1%E0%A6%93%E0%A7%9F%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B0+%E0%A6%8F%E0%A6%A8%E0%A7%8D%E0%A6%A1+%E0%A6%87%E0%A6%B2%E0%A7%87%E0%A6%95%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%95&rflfq=1&num=20&stick=H4sIAAAAAAAAAE1PK04EURDMCgiaQY3aI_T_o7gEZ2IFIQiCAZLNIt6gYIMCA1d5mlPQM2MwL13V1VX1zk7HwRTCFThVQNXJTMYLlGSJNGWDMI4Ux3GQRGOk9CSJ4jCtSFbCVI9QYXdG0bo3MYAQdGAHTFLm8dwNRLlykMoivM4rqcKBlJLcKmpOrlIAHkKhocpJGWgzKS6eAZEMXi08xkEJjJ28AhyZQFLHgYWx6jEpajUwjPlPDFUx08y1dpzJftxsfjeXvX306aa3hz7tejv29r3t7a63fU293Rf4XKZjn257e9zOyhmU-Knel5Or3q57e-7trXZf_7SHOu_TfpnfV361fl3XBXZL-m7xXIVV4KfgH_gsHOmdAQAA&sa=X&ved=2ahUKEwjAoZ7owIv6AhW3gtgFHQbSB9sQ6nUoAHoECDYQAQ"
-            }
-        ]
-    ],
-    [
-        {
-            "Title": "A. S. M. Radwan - Software Engineer &amp; Japanese Language ...",
-            "URL": "https://bd.linkedin.com/in/a-s-m-radwan-316597155"
-        },
-        {
-            "Title": "Dr. ASM Redwan - Parkview Hospital Limited",
-            "URL": "https://parkview.com.bd/profile/dr-asm-redwan/"
-        },
-        {
-            "Title": "Dr ASM Redwan | Health BD",
-            "URL": "https://www.e-healthbd.com/doctors/person/318"
-        },
-        {
-            "Title": "asm.radwan - Instagram",
-            "URL": "https://www.instagram.com/asm.radwan/"
-        },
-        {
-            "Title": "Asm Radwan | Facebook",
-            "URL": "https://m.facebook.com/asm.radwan.98"
-        },
-        {
-            "Title": "A S M radwan-এর ছবি",
-            "URL": "https://www.google.com/search?source=univ&tbm=isch&q=A+S+M+radwan&fir=E4VNyRmbz0aJkM%252Cbr3R_71_S9VI6M%252C_%253Bxya8f31cV6hQrM%252CpCk_m9mdsBzzMM%252C_%253BqxAUdFGIG5_0cM%252CpCk_m9mdsBzzMM%252C_%253BI-dGFkqRKlcENM%252CpCk_m9mdsBzzMM%252C_%253BRPALzy8SwoGjrM%252COE0L51RscD4W-M%252C_%253B9ZmYEVMfEPQvYM%252CYc5O4Ko1XTTZLM%252C_%253B3ccUnRetTM6TOM%252CkGw8ChrfeGfP3M%252C_%253B6o6LAYqSBIrulM%252CriyH7SU9jR6A4M%252C_%253BFMvo-Hg9MFS1WM%252CHyXggjgX008V_M%252C_%253B6s3sp__Zcb-JDM%252C3fdnVDfg44lvyM%252C_&usg=AI4_-kQb-N7v4IpDfRHOvVOrUuIwAQFe3A&sa=X&ved=2ahUKEwjAoZ7owIv6AhW3gtgFHQbSB9sQjJkEegQIIBAC"
-        },
-        {
-            "Title": "Dr. ASM Redwan - BEST DOCTOR INFO.",
-            "URL": "https://bestdoctorinfo.com/dr-asm-redwan/"
-        },
-        {
-            "Title": "ASM Radwan American International University-Bangladesh ...",
-            "URL": "https://www.researchgate.net/profile/A_S_M_Radwan"
-        },
-        {
-            "Title": "‪A S M Redwan Haider‬ - ‪Google Scholar‬",
-            "URL": "https://scholar.google.com/citations?user=GjfWNp0AAAAJ&hl=en"
         }
     ]
 ]

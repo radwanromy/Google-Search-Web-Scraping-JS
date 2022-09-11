@@ -1,59 +1,64 @@
+
 const wordc = process.argv[2];
+
 if (wordc == "1") {
-    let value = process.argv[3];
-    catchstring(value);
+    let values = process.argv[3];
+    catchstring(values);
 }
 else if (wordc == "2") {
-    let value = process.argv[3] + " " + process.argv[4];
-    catchstring(value);
+    let values = process.argv[3] + " " + process.argv[4];
+    catchstring(values);
 }
 else if (wordc == "3") {
-    let value = process.argv[3] + " " + process.argv[4] + " " + process.argv[5];
-    catchstring();
+    let values = process.argv[3] + " " + process.argv[4] + " " + process.argv[5];
+    catchstring(values);
 }
 else if (wordc == "4") {
-    let value = process.argv[3] + " " + process.argv[4] + " " + process.argv[5] + " " + process.argv[6];
-    catchstring(value);
+    let values = process.argv[3] + " " + process.argv[4] + " " + process.argv[5] + " " + process.argv[6];
+    catchstring(values);
+}
+else if(wordc == "5") {
+    let values = process.argv[3] + " " + process.argv[4] + " " + process.argv[5] + " " + process.argv[6] + " " + process.argv[7];
+    catchstring(values);
+}
+else if(wordc == "6") {
+    let values = process.argv[3] + " " + process.argv[4] + " " + process.argv[5] + " " + process.argv[6] + " " + process.argv[7] + " " + process.argv[8];
+    catchstring(values);
+}
+else if(wordc == "7") {
+    let values = process.argv[3] + " " + process.argv[4] + " " + process.argv[5] + " " + process.argv[6] + " " + process.argv[7] + " " + process.argv[8] + " " + process.argv[9];
+   
+    catchstring(values);
+}
+else if(wordc == "8") {
+    let values = process.argv[3] + " " + process.argv[4] + " " + process.argv[5] + " " + process.argv[6] + " " + process.argv[7] + " " + process.argv[8] + " " + process.argv[9] + " " + process.argv[10];
+    catchstring(values);
+    
 }
 else {
     console.log("Too many words");
 
 }
-
-// if (value == ' ') {
-//   console.log('Null');
-//   alert('Null');
-// }
-// else {
-// catchstring();
-
-
-//     };
-
-function catchstring(value) {
+function catchstring(values) {
     const { count } = require("console");
     const puppeteer = require("puppeteer");
-
-
     async function scrape(url) {
         const browser = await puppeteer.launch({ headless: false });
         const page = await browser.newPage();
+        const v =(values);
+        console.log(v);
         await page.goto(url);
         const inputFiled = await page.$(
             "body > div.L3eUgb > div.o3j99.ikrT4e.om7nvf > form > div:nth-child(1) > div.A8SBwf > div.RNNXgb > div > div.a4bIc > input"
         );
 
-
-
-
-        await inputFiled.type(value);
+        await inputFiled.type(values);
         await page.keyboard.press("Enter");
-
         await page.waitForSelector(".v7W49e");
         await page.waitForSelector(".a4bIc");
         await page.waitForSelector(".MjjYud");
-        // await page.waitForSelector(".sATSHe");
         await page.waitForSelector(".iJ1Kvb");
+        await page.waitForSelector(".gLFyf.gsfi");
 
         const results = await page.evaluate(async () => {
 
@@ -64,15 +69,8 @@ function catchstring(value) {
             const searchResultvideos = document.querySelectorAll(".sI5x9c");
             const searchResultimages = document.querySelectorAll(".sATSHe");
             const searchResultsocial = document.querySelectorAll(".MjjYud");
-
-            // const mediacount =document.querySelector('EDblX.m8vZ3d').length;
-            // const x = document.getElementsByClassName("gLFyf.gsfi").value;
-            // alert(x);
-            // const cites = document.querySelector(".TbwUpd.NJjxre cite").innerText;
             const searchResultsite = document.querySelectorAll(".yuRUbf");
             var loadTime = window.performance.timing.domContentLoadedEventEnd - window.performance.timing.navigationStart;
-
-
             console.log("The number of results", countAll);
             const maininfo = [];
             const maininfo2 = [];
@@ -87,40 +85,24 @@ function catchstring(value) {
             let slinkcount3 = 0;
             let slinkcount4 = 0;
             let slinkcount5 = 0;
-            const fb = "facebook.com";
+            const fb = "https://www.facebook.com";
             const li = "https://www.linkedin.com";
             const tw = "https://twitter.com";
             const ig = "https://www.instagram.com";
             const rd = "https://www.reddit.com";
             const libd = "https://bd.linkedin.com";
             const mfb = "https://m.facebook.com";
-
-
-
-
-            //     if (cites== "https://www.facebook.com" || ""){
-            //         alert("Equal");
-            //         slinkcount = slinkcount + 1;
-            // }
-            //     else
-            //         console.log("No record found");
-
-
             var el = document.getElementById("span");
             searchResultsite.forEach(searchItems => {
                 let item = {
                     site: searchItems.querySelector(".yuRUbf cite").innerText.split(' ', 1),
-
-
-
                 };
-
 
                 for (var i = 0; i < searchItems.querySelector(".yuRUbf cite").innerText.split(' ', 1).length; i++) {
                     if (searchItems.querySelector(".yuRUbf cite").innerText.split(' ', 1) == fb) {
                         slinkcount = slinkcount + 1;
                     }
-                    if (searchItems.querySelector(".yuRUbf cite").innerText.split(' ', 1) == mfb) {
+                    else if (searchItems.querySelector(".yuRUbf cite").innerText.split(' ', 1) == mfb) {
                         slinkcount = slinkcount + 1;
                     }
                     else if (searchItems.querySelector(".yuRUbf cite").innerText.split(' ', 1) == li) {
@@ -214,12 +196,14 @@ function catchstring(value) {
 
 
                 //  alert(searchItems.querySelector(".yuRUbf cite").innerText.split(' ', 1).length);
+                site.push("Search Result Sites Main Domain: ");
                 site.push(item);
 
 
             });
             let item2 = {
-                // q:searchinput ,
+
+                q: this.v,
                 timeTakenInMs: loadTime,
                 pageOneResultCount: countAll,
                 pageOneVideoResultCount: countAllvideos,
@@ -290,17 +274,21 @@ function catchstring(value) {
             // });
 
 
-            maininfo.push(site);
-            site.push("Grouped of All Category");
-            site.push("Website Category");
-            site.push(website);
-            site.push("Social Category");
-            site.push(social);
-            site.push("Video Category");
-            site.push(video);
-            site.push("Media Category");
-            site.push(media);
+            // maininfo.push(site);
+            maininfo.push("Grouped of All Category");
+            maininfo.push("Website Category");
+            maininfo.push(website);
+            maininfo.push("Social Category");
+            maininfo.push(social);
+            maininfo.push("Video Category");
+            maininfo.push(video);
+            maininfo.push("Media Category");
+            maininfo.push(media);
+            maininfo.push("All Website Main Domains");
+            // site.push();
+            maininfo.push("All Site Results");
             maininfo.push(temp);
+            maininfo.push(site);
 
 
             return maininfo;
