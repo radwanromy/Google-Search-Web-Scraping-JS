@@ -2,10 +2,11 @@
 Elobyte Programming Task Software Engineer - September 2022
 <center>
 <table align="center" >
+ <table><tr><td>
 <br>
 <h3>Run Command Format<br>
 Example :</h3>
-<table><tr><td>
+
 <h4 style="color:blue">
 RadwanRomy@DESKTOP-CPV8G9B MINGW64 ~/Downloads/Elo Task/wsjson<br>
 $ node server.js 4 A S M Radwan
@@ -18,9 +19,17 @@ $ node server.js 3 youtube api pricing <br> This Command is to search this -
 youtube api pricing
 </h4>
  <p  align="center"><img src="https://github.com/radwanromy/Elobyte-Programming-Task-Software-Engineer---September-2022/blob/master/media%20guide/Capture01.JPG" class="w3-round"  align="center"></p>
-</td></tr>
+
+ JSOn Report
+<center>https://github.com/radwanromy/Elobyte-Programming-Task-Software-Engineer---September-2022/blob/master/JSON%20Report%20Sample.pdf
+</center>
+<h3>JSON Report<br>
+Example :</h3>
+ <p  align="center"><img src="https://github.com/radwanromy/Elobyte-Programming-Task-Software-Engineer---September-2022/blob/master/media%20guide/report1.JPG" class="w3-round"  align="center"></p>
+  
+   <p  align="center"><img src="https://github.com/radwanromy/Elobyte-Programming-Task-Software-Engineer---September-2022/blob/master/media%20guide/Report%201_2.JPG" class="w3-round"  align="center"></p>
+    <p  align="center"><img src="https://github.com/radwanromy/Elobyte-Programming-Task-Software-Engineer---September-2022/blob/master/media%20guide/report%201_3.JPG" class="w3-round"  align="center"></p>
+  </td></tr>
 </table>
 </table>
 </center?
-<center>https://github.com/radwanromy/Elobyte-Programming-Task-Software-Engineer---September-2022/blob/master/JSON%20Report%20Sample.pdf
-</center>
