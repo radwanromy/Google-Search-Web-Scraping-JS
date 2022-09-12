@@ -1,1 +1,183 @@
-[{"pageOneResultCount":3,"pageOneVideoResultCount":4,"Website":"https://elobyte.com"},{"pageOneResultCount":3,"pageOneVideoResultCount":4,"Website":"https://elobyte.com"},{"pageOneResultCount":3,"pageOneVideoResultCount":4,"Website":"https://elobyte.com"}]
+[
+    {
+        "timeTakenInMs": 786,
+        "pageOneResultCount": 13,
+        "pageOneVideoResultCount": 3,
+        "Total_Facebook_links": 0,
+        "Total_Linkedin_links": 0,
+        "Total_Twitter_links": 0,
+        "Total_Instagram_links": 0,
+        "Total_Reddit_links": 0
+    },
+    "Grouped of All Category",
+    "Website Category",
+    [
+        {
+            "Website_Title": "Does YouTube Data API billing change if the APIs are called ...",
+            "Website_URL": "https://stackoverflow.com/questions/66412214/does-youtube-data-api-billing-change-if-the-apis-are-called-from-gcp-server-or-a"
+        },
+        {
+            "Website_Title": "YouTube Data API (v3) - Quota Calculator - Google Developers",
+            "Website_URL": "https://developers.google.com/youtube/v3/determine_quota_cost"
+        },
+        {
+            "Website_Title": "Pricing &amp; Cost (ytdlfree) - Youtube v3 API - RapidAPI",
+            "Website_URL": "https://rapidapi.com/ytdlfree/api/youtube-v31/pricing"
+        },
+        {
+            "Website_Title": "YouTube API v3 - API request quotas, costs, pricing, rates",
+            "Website_URL": "https://groups.google.com/g/google-api-objectivec-client/c/-xhvHwtI25o"
+        },
+        {
+            "Website_Title": "How to Get a YouTube API Key [Tutorial + Examples]",
+            "Website_URL": "https://blog.hubspot.com/website/how-to-get-youtube-api-key"
+        },
+        {
+            "Website_Title": "What does the Unit Cost on the YouTube Data API (v3)",
+            "Website_URL": "https://support.google.com/youtube/thread/1382733/what-does-the-unit-cost-on-the-youtube-data-api-v3-quota-calculator-mean-is-it-a-currency?hl=en"
+        },
+        {
+            "Website_Title": "How to Request Additional Quota for your YouTube API Project",
+            "Website_URL": "https://www.labnol.org/youtube-quota-request-201016"
+        },
+        {
+            "Website_Title": "How to get a Youtube API key - Sugarcube Tools",
+            "Website_URL": "https://sugarcubetools.net/ncube/youtube-api/"
+        },
+        {
+            "Website_Title": "YouTube Data API v3 quota broken [35175340] - Issue Tracker",
+            "Website_URL": "https://issuetracker.google.com/issues/35175340"
+        }
+    ],
+    "Social Category",
+    [],
+    "Video Category",
+    [
+        {
+            "Video_Title": "Intro to YouTube API and cost based quota for beginners 2021.",
+            "Video_duration": "4:17"
+        },
+        {
+            "Video_Title": "YouTube Developers Live: Understanding Quota in v3",
+            "Video_duration": "9:18"
+        },
+        {
+            "Video_Title": "API Pricing Webinar (Benchmarks, API Pricing Strategy)",
+            "Video_duration": "40:57"
+        }
+    ],
+    "Media Category",
+    [],
+    "All Website Main Domains",
+    "All Site Results",
+    [
+        {
+            "Title": "Does YouTube Data API billing change if the APIs are called ...",
+            "URL": "https://stackoverflow.com/questions/66412214/does-youtube-data-api-billing-change-if-the-apis-are-called-from-gcp-server-or-a"
+        },
+        {
+            "Title": "YouTube Data API (v3) - Quota Calculator - Google Developers",
+            "URL": "https://developers.google.com/youtube/v3/determine_quota_cost"
+        },
+        {
+            "Title": "<span class=\"q8U8x\">এছাড়াও লোকজন এগুলি জিজ্ঞাসা করে</span>",
+            "URL": "https://www.google.com/search?q=Is+YouTube+API+free+or+paid%3F&sa=X&ved=2ahUKEwj7x57n4I76AhWxXnwKHYXVAmQQzmd6BAg6EAU"
+        },
+        {
+            "Title": "Pricing &amp; Cost (ytdlfree) - Youtube v3 API - RapidAPI",
+            "URL": "https://rapidapi.com/ytdlfree/api/youtube-v31/pricing"
+        },
+        {
+            "Title": "ভিডিও",
+            "URL": "https://www.youtube.com/watch?v=MHUGuw1Agnc"
+        },
+        {
+            "Title": "YouTube API v3 - API request quotas, costs, pricing, rates",
+            "URL": "https://groups.google.com/g/google-api-objectivec-client/c/-xhvHwtI25o"
+        },
+        {
+            "Title": "How to Get a YouTube API Key [Tutorial + Examples]",
+            "URL": "https://blog.hubspot.com/website/how-to-get-youtube-api-key"
+        },
+        {
+            "Title": "What does the Unit Cost on the YouTube Data API (v3)",
+            "URL": "https://support.google.com/youtube/thread/1382733/what-does-the-unit-cost-on-the-youtube-data-api-v3-quota-calculator-mean-is-it-a-currency?hl=en"
+        },
+        {
+            "Title": "How to Request Additional Quota for your YouTube API Project",
+            "URL": "https://www.labnol.org/youtube-quota-request-201016"
+        },
+        {
+            "Title": "How to get a Youtube API key - Sugarcube Tools",
+            "URL": "https://sugarcubetools.net/ncube/youtube-api/"
+        },
+        {
+            "Title": "YouTube Data API v3 quota broken [35175340] - Issue Tracker",
+            "URL": "https://issuetracker.google.com/issues/35175340"
+        },
+        {
+            "Title": "<span class=\"q8U8x\">এছাড়াও লোকজন এগুলি জিজ্ঞাসা করে</span>",
+            "URL": "https://www.google.com/search?q=youtube+api+pricing&source=hp&ei=GuMeY6XYGsSY3LUPmammqA4&iflsig=AJiK0e8AAAAAYx7xKsYxVTEbeXZ9b3zx0INdCvbXnpuV&ved=0ahUKEwilzcjm4I76AhVEDLcAHZmUCeUQ4dUDCAc&uact=5&oq=youtube+api+pricing&gs_lcp=Cgdnd3Mtd2l6EANQAFhyYHpoAHAAeACAAQCIAQCSAQCYAQCgAQE&sclient=gws-wiz#"
+        },
+        {
+            "Title": "<span class=\"q8U8x\">সংশ্লিষ্ট সার্চ</span>",
+            "URL": "https://www.google.com/search?q=Is+YouTube+API+free&sa=X&ved=2ahUKEwj7x57n4I76AhWxXnwKHYXVAmQQ1QJ6BAgqEAE"
+        }
+    ],
+    [
+        "Search Result Sites Main Domain: ",
+        {
+            "site": [
+                "https://stackoverflow.com"
+            ]
+        },
+        "Search Result Sites Main Domain: ",
+        {
+            "site": [
+                "https://developers.google.com"
+            ]
+        },
+        "Search Result Sites Main Domain: ",
+        {
+            "site": [
+                "https://rapidapi.com"
+            ]
+        },
+        "Search Result Sites Main Domain: ",
+        {
+            "site": [
+                "https://groups.google.com"
+            ]
+        },
+        "Search Result Sites Main Domain: ",
+        {
+            "site": [
+                "https://blog.hubspot.com"
+            ]
+        },
+        "Search Result Sites Main Domain: ",
+        {
+            "site": [
+                "https://support.google.com"
+            ]
+        },
+        "Search Result Sites Main Domain: ",
+        {
+            "site": [
+                "https://www.labnol.org"
+            ]
+        },
+        "Search Result Sites Main Domain: ",
+        {
+            "site": [
+                "https://sugarcubetools.net"
+            ]
+        },
+        "Search Result Sites Main Domain: ",
+        {
+            "site": [
+                "https://issuetracker.google.com"
+            ]
+        }
+    ]
+]
