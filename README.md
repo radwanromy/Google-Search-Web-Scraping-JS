@@ -20,9 +20,8 @@ youtube api pricing
 </h4>
  <p  align="center"><img src="https://github.com/radwanromy/Elobyte-Programming-Task-Software-Engineer---September-2022/blob/master/media%20guide/Capture01.JPG" class="w3-round"  align="center"></p>
 
- JSOn Report
-<center>https://github.com/radwanromy/Elobyte-Programming-Task-Software-Engineer---September-2022/blob/master/JSON%20Report%20Sample.pdf
-</center>
+ JSON Report PDF: https://github.com/radwanromy/Elobyte-Programming-Task-Software-Engineer---September-2022/blob/master/JSON%20Report%20Sample.pdf
+
 <h3>JSON Report<br>
 Example :</h3>
  <p  align="center"><img src="https://github.com/radwanromy/Elobyte-Programming-Task-Software-Engineer---September-2022/blob/master/media%20guide/report1.JPG" class="w3-round"  align="center"></p>
