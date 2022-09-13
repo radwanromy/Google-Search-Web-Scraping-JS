@@ -1,10 +1,10 @@
 [
     {
-        "timeTakenInMs": 786,
-        "pageOneResultCount": 13,
-        "pageOneVideoResultCount": 3,
-        "Total_Facebook_links": 0,
-        "Total_Linkedin_links": 0,
+        "timeTakenInMs": 881,
+        "pageOneResultCount": 9,
+        "pageOneVideoResultCount": 0,
+        "Total_Facebook_links": 1,
+        "Total_Linkedin_links": 1,
         "Total_Twitter_links": 0,
         "Total_Instagram_links": 0,
         "Total_Reddit_links": 0
@@ -13,170 +13,152 @@
     "Website Category",
     [
         {
-            "Website_Title": "Does YouTube Data API billing change if the APIs are called ...",
-            "Website_URL": "https://stackoverflow.com/questions/66412214/does-youtube-data-api-billing-change-if-the-apis-are-called-from-gcp-server-or-a"
+            "Website_Title": "Elobyte",
+            "Website_URL": "https://elobyte.com/"
         },
         {
-            "Website_Title": "YouTube Data API (v3) - Quota Calculator - Google Developers",
-            "Website_URL": "https://developers.google.com/youtube/v3/determine_quota_cost"
+            "Website_Title": "About elobyte-Software - Medium",
+            "Website_URL": "https://medium.com/elobyte-software/about"
         },
         {
-            "Website_Title": "Pricing &amp; Cost (ytdlfree) - Youtube v3 API - RapidAPI",
-            "Website_URL": "https://rapidapi.com/ytdlfree/api/youtube-v31/pricing"
+            "Website_Title": "এলবি ট্যাবলেট / Lb Tablet in Bangla - প্রোডাক্ট - TabletWise.com",
+            "Website_URL": "https://www.xn--n5b4b6bzb.com/bn/lb-tablet"
         },
         {
-            "Website_Title": "YouTube API v3 - API request quotas, costs, pricing, rates",
-            "Website_URL": "https://groups.google.com/g/google-api-objectivec-client/c/-xhvHwtI25o"
+            "Website_Title": "Elobyte - Electronics Store WooCommerce Theme",
+            "Website_URL": "https://www.templatemonster.com/woocommerce-themes/elobyte-electronics-store-woocommerce-theme-98026.html"
         },
         {
-            "Website_Title": "How to Get a YouTube API Key [Tutorial + Examples]",
-            "Website_URL": "https://blog.hubspot.com/website/how-to-get-youtube-api-key"
+            "Website_Title": "পাউন্ডকে কেন 'এলবি' দিয়ে বোঝানো হয় জানেন?",
+            "Website_URL": "https://www.anandabazar.com/lifestyle/know-why-lb-stands-for-pound-dgtl-1.762159"
         },
         {
-            "Website_Title": "What does the Unit Cost on the YouTube Data API (v3)",
-            "Website_URL": "https://support.google.com/youtube/thread/1382733/what-does-the-unit-cost-on-the-youtube-data-api-v3-quota-calculator-mean-is-it-a-currency?hl=en"
+            "Website_Title": "Laa Lb Capsule in bangla (লা এলবি ক্যাপসুল) তথ্য, লাভ, সুবিধা ...",
+            "Website_URL": "https://www.lybrate.com/bn/medicine/laa-lb-capsule"
         },
         {
-            "Website_Title": "How to Request Additional Quota for your YouTube API Project",
-            "Website_URL": "https://www.labnol.org/youtube-quota-request-201016"
+            "Website_Title": "নরফ্লক্স টিজেড এলবি ট্যাবলেট (Norflox Tz Lb Tablet) - Lybrate",
+            "Website_URL": "https://www.lybrate.com/bn/medicine/norflox-tz-lb-tablet"
         },
         {
-            "Website_Title": "How to get a Youtube API key - Sugarcube Tools",
-            "Website_URL": "https://sugarcubetools.net/ncube/youtube-api/"
-        },
-        {
-            "Website_Title": "YouTube Data API v3 quota broken [35175340] - Issue Tracker",
-            "Website_URL": "https://issuetracker.google.com/issues/35175340"
+            "Website_Title": ".এলবি - উইকিপিডিয়া",
+            "Website_URL": "https://bpy.wikipedia.org/wiki/.%E0%A6%8F%E0%A6%B2%E0%A6%AC%E0%A6%BF"
         }
     ],
     "Social Category",
-    [],
-    "Video Category",
     [
         {
-            "Video_Title": "Intro to YouTube API and cost based quota for beginners 2021.",
-            "Video_duration": "4:17"
+            "Social_Title": "Embedded Logic Operations (ELO) - LinkedIn",
+            "Social_URL": "https://www.linkedin.com/company/elobyte"
         },
         {
-            "Video_Title": "YouTube Developers Live: Understanding Quota in v3",
-            "Video_duration": "9:18"
-        },
-        {
-            "Video_Title": "API Pricing Webinar (Benchmarks, API Pricing Strategy)",
-            "Video_duration": "40:57"
+            "Social_Title": "ELO - Facebook",
+            "Social_URL": "https://www.facebook.com/elobyte"
         }
     ],
+    "Video Category",
+    [],
     "Media Category",
     [],
     "All Website Main Domains",
     "All Site Results",
     [
         {
-            "Title": "Does YouTube Data API billing change if the APIs are called ...",
-            "URL": "https://stackoverflow.com/questions/66412214/does-youtube-data-api-billing-change-if-the-apis-are-called-from-gcp-server-or-a"
+            "Title": "Elobyte",
+            "URL": "https://elobyte.com/"
         },
         {
-            "Title": "YouTube Data API (v3) - Quota Calculator - Google Developers",
-            "URL": "https://developers.google.com/youtube/v3/determine_quota_cost"
+            "Title": "Embedded Logic Operations (ELO) - LinkedIn",
+            "URL": "https://www.linkedin.com/company/elobyte"
         },
         {
-            "Title": "<span class=\"q8U8x\">এছাড়াও লোকজন এগুলি জিজ্ঞাসা করে</span>",
-            "URL": "https://www.google.com/search?q=Is+YouTube+API+free+or+paid%3F&sa=X&ved=2ahUKEwj7x57n4I76AhWxXnwKHYXVAmQQzmd6BAg6EAU"
+            "Title": "ELO - Facebook",
+            "URL": "https://www.facebook.com/elobyte"
         },
         {
-            "Title": "Pricing &amp; Cost (ytdlfree) - Youtube v3 API - RapidAPI",
-            "URL": "https://rapidapi.com/ytdlfree/api/youtube-v31/pricing"
+            "Title": "About elobyte-Software - Medium",
+            "URL": "https://medium.com/elobyte-software/about"
         },
         {
-            "Title": "ভিডিও",
-            "URL": "https://www.youtube.com/watch?v=MHUGuw1Agnc"
+            "Title": "এলবি ট্যাবলেট / Lb Tablet in Bangla - প্রোডাক্ট - TabletWise.com",
+            "URL": "https://www.xn--n5b4b6bzb.com/bn/lb-tablet"
         },
         {
-            "Title": "YouTube API v3 - API request quotas, costs, pricing, rates",
-            "URL": "https://groups.google.com/g/google-api-objectivec-client/c/-xhvHwtI25o"
+            "Title": "Elobyte - Electronics Store WooCommerce Theme",
+            "URL": "https://www.templatemonster.com/woocommerce-themes/elobyte-electronics-store-woocommerce-theme-98026.html"
         },
         {
-            "Title": "How to Get a YouTube API Key [Tutorial + Examples]",
-            "URL": "https://blog.hubspot.com/website/how-to-get-youtube-api-key"
+            "Title": "পাউন্ডকে কেন 'এলবি' দিয়ে বোঝানো হয় জানেন?",
+            "URL": "https://www.anandabazar.com/lifestyle/know-why-lb-stands-for-pound-dgtl-1.762159"
         },
         {
-            "Title": "What does the Unit Cost on the YouTube Data API (v3)",
-            "URL": "https://support.google.com/youtube/thread/1382733/what-does-the-unit-cost-on-the-youtube-data-api-v3-quota-calculator-mean-is-it-a-currency?hl=en"
+            "Title": "Laa Lb Capsule in bangla (লা এলবি ক্যাপসুল) তথ্য, লাভ, সুবিধা ...",
+            "URL": "https://www.lybrate.com/bn/medicine/laa-lb-capsule"
         },
         {
-            "Title": "How to Request Additional Quota for your YouTube API Project",
-            "URL": "https://www.labnol.org/youtube-quota-request-201016"
-        },
-        {
-            "Title": "How to get a Youtube API key - Sugarcube Tools",
-            "URL": "https://sugarcubetools.net/ncube/youtube-api/"
-        },
-        {
-            "Title": "YouTube Data API v3 quota broken [35175340] - Issue Tracker",
-            "URL": "https://issuetracker.google.com/issues/35175340"
-        },
-        {
-            "Title": "<span class=\"q8U8x\">এছাড়াও লোকজন এগুলি জিজ্ঞাসা করে</span>",
-            "URL": "https://www.google.com/search?q=youtube+api+pricing&source=hp&ei=GuMeY6XYGsSY3LUPmammqA4&iflsig=AJiK0e8AAAAAYx7xKsYxVTEbeXZ9b3zx0INdCvbXnpuV&ved=0ahUKEwilzcjm4I76AhVEDLcAHZmUCeUQ4dUDCAc&uact=5&oq=youtube+api+pricing&gs_lcp=Cgdnd3Mtd2l6EANQAFhyYHpoAHAAeACAAQCIAQCSAQCYAQCgAQE&sclient=gws-wiz#"
-        },
-        {
-            "Title": "<span class=\"q8U8x\">সংশ্লিষ্ট সার্চ</span>",
-            "URL": "https://www.google.com/search?q=Is+YouTube+API+free&sa=X&ved=2ahUKEwj7x57n4I76AhWxXnwKHYXVAmQQ1QJ6BAgqEAE"
+            "Title": ".এলবি - উইকিপিডিয়া",
+            "URL": "https://bpy.wikipedia.org/wiki/.%E0%A6%8F%E0%A6%B2%E0%A6%AC%E0%A6%BF"
         }
     ],
     [
         "Search Result Sites Main Domain: ",
         {
             "site": [
-                "https://stackoverflow.com"
+                "https://elobyte.com"
             ]
         },
         "Search Result Sites Main Domain: ",
         {
             "site": [
-                "https://developers.google.com"
+                "https://www.linkedin.com"
             ]
         },
         "Search Result Sites Main Domain: ",
         {
             "site": [
-                "https://rapidapi.com"
+                "https://www.facebook.com"
             ]
         },
         "Search Result Sites Main Domain: ",
         {
             "site": [
-                "https://groups.google.com"
+                "https://medium.com"
             ]
         },
         "Search Result Sites Main Domain: ",
         {
             "site": [
-                "https://blog.hubspot.com"
+                "https://www.ওষুধ.com"
             ]
         },
         "Search Result Sites Main Domain: ",
         {
             "site": [
-                "https://support.google.com"
+                "https://www.templatemonster.com"
             ]
         },
         "Search Result Sites Main Domain: ",
         {
             "site": [
-                "https://www.labnol.org"
+                "https://www.anandabazar.com"
             ]
         },
         "Search Result Sites Main Domain: ",
         {
             "site": [
-                "https://sugarcubetools.net"
+                "https://www.lybrate.com"
             ]
         },
         "Search Result Sites Main Domain: ",
         {
             "site": [
-                "https://issuetracker.google.com"
+                "https://www.lybrate.com"
+            ]
+        },
+        "Search Result Sites Main Domain: ",
+        {
+            "site": [
+                "https://bpy.wikipedia.org"
             ]
         }
     ]
